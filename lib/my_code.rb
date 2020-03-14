@@ -18,7 +18,7 @@ def map(array)
    
   end
   
-  array
+  new
 end
 
 
