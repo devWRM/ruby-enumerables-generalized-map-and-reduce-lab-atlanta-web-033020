@@ -27,8 +27,8 @@ end
 
 
 
-# Map returns a new array of the manipulated original array
-# This map method passes each element from the original array into ANY block that calls it
+# Reduce returns a single value of the manipulated original array
+# This reduce method passes each element from the original array into ANY block that calls it
 # start_val given a default value set to nil so start_val is an optional parameter
 
 def reduce(array, start_val = nil)
