@@ -8,6 +8,7 @@ def map(array)
   
   while i < array.length do
     
+    # yield passes each element to the block
     yield(array[i])
     
     # new << array[i] * -1
