@@ -33,7 +33,13 @@ end
 
 def reduce(array, start_val = nil)
   
-  
+  if start_val
+    num1 = start_val
+    i = 0
+  else
+    num1 = array[0]
+    i = 1
+  end
   
 end
 
