@@ -6,6 +6,7 @@ def map(array)
   new = []
   
   
+  
   array
 end
 
