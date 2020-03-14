@@ -39,7 +39,7 @@ def reduce(array, start_val = nil)
   else
     sum = array[0]
     i = 1
-    # i starts at 1 because the sum already starts with index 0
+    # i set to 1 because the sum already starts with index 0
   end
   
   while i < array.length do
