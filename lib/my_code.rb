@@ -24,6 +24,10 @@ end
 
 
 
+
+
+# The default value set to nil so start_val is optional
+
 def reduce(array, start_val = nil)
   
   
