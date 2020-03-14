@@ -26,7 +26,7 @@ end
 
 
 
-# The default value set to nil so start_val is optional
+# start_val given a default value set to nil so start_val is an optional parameter
 
 def reduce(array, start_val = nil)
   
