@@ -36,7 +36,7 @@ def reduce(array)
     
     i += 1
     
-    # new << array[i] * -1
+    # Each method call with a block will do the actual calculations
    
   end
   new
