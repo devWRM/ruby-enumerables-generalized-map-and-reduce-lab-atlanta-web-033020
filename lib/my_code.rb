@@ -12,8 +12,10 @@ def map(array)
    new.push(yield(array[i]))
     # push the element into the new array
     
+    i += 1
+    
     # new << array[i] * -1
-    # i += 1
+   
   end
   
   array
