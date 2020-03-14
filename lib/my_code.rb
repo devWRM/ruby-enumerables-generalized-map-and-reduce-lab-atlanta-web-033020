@@ -1,6 +1,7 @@
 # Your Code Here
 
 def map(source_array)
+  ans = 
   yield (ans)
 end
 
