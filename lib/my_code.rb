@@ -49,8 +49,7 @@ def reduce(array, start_val = nil)
     
   end
   
-  
-  
+  sum
 end
 
 
