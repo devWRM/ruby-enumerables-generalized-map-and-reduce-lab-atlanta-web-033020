@@ -39,7 +39,7 @@ def reduce(array)
     # Each method call with a block will do the actual calculations
    
   end
-  new
+  total
 end
 
 
