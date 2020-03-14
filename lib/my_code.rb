@@ -41,6 +41,8 @@ def reduce(array, start_val = nil)
     i = 1
   end
   
+  
+  
 end
 
 
