@@ -41,6 +41,12 @@ def reduce(array, start_val = nil)
     i = 1
   end
   
+  while i < array.length do
+    
+    yield(array[i])
+    
+  end
+  
   
   
 end
