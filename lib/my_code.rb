@@ -1,7 +1,7 @@
 # Your Code Here
 
 def map(source_array)
-  yield
+  yield (ans)
 end
 
 map([1, 2, 7, 5]){ |n| n * -1 }
