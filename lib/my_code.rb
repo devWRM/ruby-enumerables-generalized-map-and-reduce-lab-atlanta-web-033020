@@ -17,7 +17,6 @@ def map(array)
     # new << array[i] * -1
    
   end
-  
   new
 end
 
