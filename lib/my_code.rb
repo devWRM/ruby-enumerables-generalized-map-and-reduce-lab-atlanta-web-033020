@@ -7,8 +7,11 @@ def map(array)
   i = 0
   
   while i < array.length do
-    new << array[i] * -1
-    i += 1
+    
+    yield(array[i])
+    
+    # new << array[i] * -1
+    # i += 1
   end
   
   array
