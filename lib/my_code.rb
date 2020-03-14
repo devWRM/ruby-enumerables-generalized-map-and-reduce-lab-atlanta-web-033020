@@ -24,7 +24,7 @@ end
 
 
 
-def reduce(array, start_val = 0)
+def reduce(array, start_val = nil)
   
   
   
