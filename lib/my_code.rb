@@ -1,6 +1,7 @@
 # Your Code Here
 
 # Map returns a new array of the manipulated original array
+# This map method passes each element from the original array into ANY block that calls it
 
 def map(array)
   new = []
