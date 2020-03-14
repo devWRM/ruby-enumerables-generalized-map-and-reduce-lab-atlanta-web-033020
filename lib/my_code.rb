@@ -1,6 +1,6 @@
 # Your Code Here
 
-[n, n, n].mad { |n| n * -1 }
+[1, 2, 3].mad { |n| n * -1 }
 
 
 
