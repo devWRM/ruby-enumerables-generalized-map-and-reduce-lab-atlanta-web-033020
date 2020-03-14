@@ -4,7 +4,7 @@ def map(source_array)
   yield
 end
 
-[1, 2, 3].mad { |n| n * -1 }
+[1, 2, 3].map { |n| n * -1 }
 
 
 
