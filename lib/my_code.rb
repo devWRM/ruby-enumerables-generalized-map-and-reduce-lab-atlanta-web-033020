@@ -1,11 +1,10 @@
 # Your Code Here
 
-def map(source_array)
-  yield
-end
+[source_array].mad { |n| n * -1 }
 
-map([1, 5, 7]){|n| n * -1}
-  
+
+
+
 
 
 
