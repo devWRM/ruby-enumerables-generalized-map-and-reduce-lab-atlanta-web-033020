@@ -31,7 +31,7 @@ def reduce(array)
   while i < array.length do
     
       # yield passes each element to the block
-   total.push(yield(array[i]))
+   total += (yield(array[i]))
       # push the element into the new array
     
     i += 1
